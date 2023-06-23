@@ -1,5 +1,5 @@
-# Hi there 👋
-My name is Luca and i am an aspiring web developer from Germany. I also like to build mobile applications or create 3D stuff.
+### Hi there 👋
+My name is Luca and I am an aspiring web developer from Germany. I also like to build mobile applications or create 3D stuff.
 
 ---
 ### 💻 Tech Stack
@@ -20,5 +20,3 @@ My name is Luca and i am an aspiring web developer from Germany. I also like to 
  <br/>
 
 #
- ⚡ Fun fact: i am also a musician
-
